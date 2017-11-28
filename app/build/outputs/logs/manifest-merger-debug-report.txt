@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\9f5e9aae6e75a522ceccb9ea5d63127a9780a9ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\7c40161287de5108174986b9bdd80101d3439534\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\d04e8b839c0212c5dd0b0acd6d33b3f10a946338\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\880fa2fef75a0097f5bf5300059c3019ca9e6a13\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\5bfecf25f93e75ed688a0e415106e3e98ce41913\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\637c667336c837678c13b68101e79570a0a5a82f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\fcc858d199cb98f94e7046d7568e0d1c72476218\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\381fef49a889eb3f0c998fafff47e256027f5b11\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mholt2587\.android\build-cache\2bff86ba8028822bbec6d2a4a2cc0ed896cd4f18\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.mholt2587.yelptest.MainActivity
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\9f5e9aae6e75a522ceccb9ea5d63127a9780a9ec\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\7c40161287de5108174986b9bdd80101d3439534\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\d04e8b839c0212c5dd0b0acd6d33b3f10a946338\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\880fa2fef75a0097f5bf5300059c3019ca9e6a13\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\5bfecf25f93e75ed688a0e415106e3e98ce41913\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\637c667336c837678c13b68101e79570a0a5a82f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\fcc858d199cb98f94e7046d7568e0d1c72476218\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\381fef49a889eb3f0c998fafff47e256027f5b11\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mholt2587\.android\build-cache\2bff86ba8028822bbec6d2a4a2cc0ed896cd4f18\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mholt2587\AndroidStudioProjects\Yelptest\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\9f5e9aae6e75a522ceccb9ea5d63127a9780a9ec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\7c40161287de5108174986b9bdd80101d3439534\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\d04e8b839c0212c5dd0b0acd6d33b3f10a946338\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\880fa2fef75a0097f5bf5300059c3019ca9e6a13\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\5bfecf25f93e75ed688a0e415106e3e98ce41913\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\637c667336c837678c13b68101e79570a0a5a82f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\fcc858d199cb98f94e7046d7568e0d1c72476218\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\381fef49a889eb3f0c998fafff47e256027f5b11\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mholt2587\.android\build-cache\abed364552b2a63f4528794e738e1befd3e7f172\output\AndroidManifest.xml:26:9-47

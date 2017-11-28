@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\mholt2587\\.android\\build-cache\\abed364552b2a63f4528794e738e1befd3e7f172\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\mholt2587\\.android\\build-cache\\abed364552b2a63f4528794e738e1befd3e7f172\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\mholt2587\\.android\\build-cache\\abed364552b2a63f4528794e738e1befd3e7f172\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\mholt2587\\.android\\build-cache\\abed364552b2a63f4528794e738e1befd3e7f172\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Nov 01 13:08:52 PDT 2017
+base.0=C\:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_901684ae6adfe2923830e834533ab975083177bb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c91e8ffeafdbc8a42fe9a6832ad549c704339649\\classes.dex
+base.1=C\:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c91e8ffeafdbc8a42fe9a6832ad549c704339649
+file.0=C\:\\Users\\mholt2587\\AndroidStudioProjects\\Yelptest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_901684ae6adfe2923830e834533ab975083177bb\\classes.dex
